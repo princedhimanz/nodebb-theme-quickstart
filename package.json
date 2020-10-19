@@ -4,5 +4,17 @@
   "description": "Enter a description here",
   "main": "theme.less",
   "keywords": [],
-  "license": "MIT"
+  "license": "MIT",
+  "author": {
+    "name": "Black Experts",
+    "email": "devdev007@yopmail.com",
+    "url": "http://blackexpert.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/princedhimanz/nodebb-theme-quickstart"
+  },
+  "bugs": {
+    "url": "https://github.com/princedhimanz/nodebb-theme-quickstart/issues"
+  }
 }
