@@ -3,8 +3,6 @@
   "version": "0.0.0",
   "description": "Enter a description here",
   "main": "theme.less",
-  "keywords": [
-
-  ],
+  "keywords": [],
   "license": "MIT"
 }
